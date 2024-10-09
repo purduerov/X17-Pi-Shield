@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BNO080")(type "KiCad")(uri "${KIPRJMOD}/Libraries/BNO080")(options "")(descr ""))
+  (lib (name "RASPBERRY_PI_4B_4GB")(type "KiCad")(uri "${KIPRJMOD}/Libraries/RASPBERRY_PI_4B_4GB")(options "")(descr ""))
+  (lib (name "AZ1117IH_3_3TRG1")(type "KiCad")(uri "${KIPRJMOD}/Libraries/AZ1117IH_3_3TRG1")(options "")(descr ""))
+)
