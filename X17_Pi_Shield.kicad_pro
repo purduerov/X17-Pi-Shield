@@ -386,6 +386,18 @@
     [
       "9eec1df9-cfd8-4f98-afed-20048a6985e2",
       "Root"
+    ],
+    [
+      "ec7ae690-5d93-4860-934d-c95cc3886eb6",
+      "Power"
+    ],
+    [
+      "5af2bbdc-46bd-42d2-88e3-703d9c80a5b0",
+      "Pi + IMU"
+    ],
+    [
+      "ac9ebbc7-7dce-474a-a1ee-16705e6debeb",
+      "Sensors"
     ]
   ],
   "text_variables": {}
