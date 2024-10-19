@@ -10,4 +10,8 @@
   (lib (name "MAX485")(type "KiCad")(uri "/Users/nickz68/Downloads/MAX485/MAX485.kicad_sym")(options "")(descr ""))
   (lib (name "INA260AIPW")(type "KiCad")(uri "/Users/nickz68/Downloads/INA260AIPW/INA260AIPW.kicad_sym")(options "")(descr ""))
   (lib (name "leak_probe_connector")(type "KiCad")(uri "/Users/nickz68/Downloads/leak_probe_connector/leak_probe_connector.kicad_sym")(options "")(descr ""))
+  (lib (name "CON_430450612_MOL")(type "KiCad")(uri "/Users/nickz68/Downloads/CON_430450612_MOL/CON_430450612_MOL.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS2117DRLR")(type "KiCad")(uri "/Users/nickz68/Downloads/TPS2117DRLR/TPS2117DRLR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS63061DSCT")(type "KiCad")(uri "/Users/nickz68/Downloads/TPS63061DSCT/TPS63061DSCT.kicad_sym")(options "")(descr ""))
+  (lib (name "UJC-HP-L-G-5-MSMT-TR")(type "KiCad")(uri "/Users/nickz68/Downloads/UJC_HP_L_G_5_MSMT_TR/UJC-HP-L-G-5-MSMT-TR.kicad_sym")(options "")(descr ""))
 )

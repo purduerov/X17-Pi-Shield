@@ -8,4 +8,8 @@
   (lib (name "MAX485")(type "KiCad")(uri "/Users/nickz68/Downloads/MAX485")(options "")(descr ""))
   (lib (name "INA260AIPW")(type "KiCad")(uri "/Users/nickz68/Downloads/INA260AIPW")(options "")(descr ""))
   (lib (name "leak_footprint")(type "KiCad")(uri "/Users/nickz68/Downloads/leak_probe_connector/footprints.pretty")(options "")(descr ""))
+  (lib (name "CON_430450612_MOL")(type "KiCad")(uri "/Users/nickz68/Downloads/CON_430450612_MOL/CON_430450612_MOL.pretty")(options "")(descr ""))
+  (lib (name "TPS2117DRLR")(type "KiCad")(uri "/Users/nickz68/Downloads/TPS2117DRLR")(options "")(descr ""))
+  (lib (name "TPS63061DSCT")(type "KiCad")(uri "/Users/nickz68/Downloads/TPS63061DSCT/TPS63061DSCT.pretty")(options "")(descr ""))
+  (lib (name "UJC_HP_L_G_5_MSMT_TR")(type "KiCad")(uri "/Users/nickz68/Downloads/UJC_HP_L_G_5_MSMT_TR")(options "")(descr ""))
 )
