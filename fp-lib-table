@@ -1,8 +1,8 @@
 (fp_lib_table
   (version 7)
-  (lib (name "BNO080")(type "KiCad")(uri "${KIPRJMOD}/Libraries/BNO080")(options "")(descr ""))
-  (lib (name "RASPBERRY_PI_4B_4GB")(type "KiCad")(uri "${KIPRJMOD}/Libraries/RASPBERRY_PI_4B_4GB")(options "")(descr ""))
-  (lib (name "AZ1117IH_3_3TRG1")(type "KiCad")(uri "${KIPRJMOD}/Libraries/AZ1117IH_3_3TRG1")(options "")(descr ""))
+  (lib (name "BNO080")(type "KiCad")(uri "/Users/nickz68/Downloads/BNO080")(options "")(descr ""))
+  (lib (name "RASPBERRY_PI_4B_4GB")(type "KiCad")(uri "/Users/nickz68/Downloads/RASPBERRY_PI_4B_4GB")(options "")(descr ""))
+  (lib (name "AZ1117IH_3_3TRG1")(type "KiCad")(uri "/Users/nickz68/Downloads/AZ1117IH_3_3TRG1")(options "")(descr ""))
   (lib (name "4754")(type "KiCad")(uri "/Users/nickz68/Downloads/4754")(options "")(descr ""))
   (lib (name "0430450212/")(type "KiCad")(uri "/Users/nickz68/Downloads/0430450212/footprints.pretty")(options "")(descr ""))
   (lib (name "MAX485")(type "KiCad")(uri "/Users/nickz68/Downloads/MAX485")(options "")(descr ""))
@@ -12,4 +12,6 @@
   (lib (name "TPS2117DRLR")(type "KiCad")(uri "/Users/nickz68/Downloads/TPS2117DRLR")(options "")(descr ""))
   (lib (name "TPS63061DSCT")(type "KiCad")(uri "/Users/nickz68/Downloads/TPS63061DSCT/TPS63061DSCT.pretty")(options "")(descr ""))
   (lib (name "UJC_HP_L_G_5_MSMT_TR")(type "KiCad")(uri "/Users/nickz68/Downloads/UJC_HP_L_G_5_MSMT_TR")(options "")(descr ""))
+  (lib (name "ISO1410BDWR")(type "KiCad")(uri "/Users/nickz68/Downloads/ISO1410BDWR/ISO1410BDWR.pretty")(options "")(descr ""))
+  (lib (name "ISO3086TDW")(type "KiCad")(uri "/Users/nickz68/Downloads/ISO3086TDW")(options "")(descr ""))
 )

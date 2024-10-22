@@ -398,6 +398,10 @@
     [
       "ac9ebbc7-7dce-474a-a1ee-16705e6debeb",
       "Sensors"
+    ],
+    [
+      "7463edb5-e9bc-436d-95e5-c231049e85db",
+      "UART"
     ]
   ],
   "text_variables": {}
