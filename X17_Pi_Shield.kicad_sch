@@ -471,6 +471,26 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 91.44) (xy 179.07 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11a21a3e-47fc-4294-b2d8-edcb84936ad5")
+	)
+	(wire
+		(pts
+			(xy 128.27 97.79) (xy 147.32 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "123482ab-eb56-4df4-a8ea-b312b22397b6")
+	)
+	(wire
+		(pts
 			(xy 78.74 102.87) (xy 82.55 102.87)
 		)
 		(stroke
@@ -478,6 +498,16 @@
 			(type default)
 		)
 		(uuid "13ad6056-d343-4c46-ada1-d7966330d7d7")
+	)
+	(wire
+		(pts
+			(xy 48.26 71.12) (xy 52.07 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1410c254-2ad0-4543-998f-e8f9a72554a3")
 	)
 	(wire
 		(pts
@@ -551,6 +581,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 63.5) (xy 48.26 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "428de540-c875-48ba-9401-b6c6ffaefd66")
+	)
+	(wire
+		(pts
 			(xy 128.27 93.98) (xy 147.32 93.98)
 		)
 		(stroke
@@ -571,13 +611,13 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 97.79) (xy 147.32 97.79)
+			(xy 179.07 63.5) (xy 48.26 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8c4561f5-088b-42a2-abe1-b821ff7f1cda")
+		(uuid "8c9b12c9-f600-4fda-af3f-0b772d0796d4")
 	)
 	(wire
 		(pts
@@ -601,6 +641,16 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 91.44) (xy 179.07 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b826ab32-5d70-4ee3-8dba-7034cb7f212e")
+	)
+	(wire
+		(pts
 			(xy 78.74 78.74) (xy 82.55 78.74)
 		)
 		(stroke
@@ -618,6 +668,16 @@
 			(type default)
 		)
 		(uuid "c3b20544-d78f-4346-bb6c-5db78b125298")
+	)
+	(wire
+		(pts
+			(xy 128.27 100.33) (xy 147.32 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecc7ff7f-936f-4671-b0cf-f7b1c3e2bb7e")
 	)
 	(wire
 		(pts
@@ -1105,16 +1165,6 @@
 			)
 			(uuid "2cfbc850-3bad-4701-bdc5-db78aa60066c")
 		)
-		(pin "GPIO_13" input
-			(at 128.27 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "b16a0207-d51c-4622-a9f6-5756f7bb220f")
-		)
 		(pin "TX" input
 			(at 128.27 91.44 0)
 			(effects
@@ -1135,16 +1185,6 @@
 			)
 			(uuid "7e39e999-7cb6-42db-a401-366ff4632b33")
 		)
-		(pin "GPIO_16" input
-			(at 128.27 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "27b870e1-895b-405c-b2cf-9e5534d94028")
-		)
 		(pin "NRST_ESC" input
 			(at 128.27 106.68 0)
 			(effects
@@ -1154,6 +1194,26 @@
 				(justify right)
 			)
 			(uuid "859f7c33-5770-4d5d-93bc-3e8f904af3b4")
+		)
+		(pin "BKP_EN" input
+			(at 128.27 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2fbd70fc-9f17-4d9b-adf5-049b47d46233")
+		)
+		(pin "TB_EN" input
+			(at 128.27 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7c83ce2e-8048-44d0-9c3e-8556b4bbc122")
 		)
 		(instances
 			(project "X17_Pi_Shield"
@@ -1192,16 +1252,6 @@
 				)
 				(justify left top)
 			)
-		)
-		(pin "GPIO_13" input
-			(at 147.32 97.79 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "2c4f4ce6-4a7e-4361-9a32-316bcf168aec")
 		)
 		(pin "TX" input
 			(at 147.32 91.44 180)
@@ -1242,6 +1292,36 @@
 				(justify left)
 			)
 			(uuid "fbee6020-1f3a-43f6-8bc2-926303c26811")
+		)
+		(pin "BKP_EN" input
+			(at 147.32 97.79 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "820358c1-2ef2-44c5-a9b7-09679a6fc900")
+		)
+		(pin "TB_EN" input
+			(at 147.32 100.33 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e70ff378-3c9a-4bb9-af8a-0fa0ecf201c7")
+		)
+		(pin "5V_BACKPLANE" input
+			(at 173.99 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b61d8b93-87fb-4a45-8089-f9526a732d31")
 		)
 		(instances
 			(project "X17_Pi_Shield"
@@ -1378,6 +1458,16 @@
 				(justify right)
 			)
 			(uuid "18f7a393-9b54-4c23-b102-2d3e0b7a8a12")
+		)
+		(pin "5V_BACKPLANE" input
+			(at 52.07 71.12 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "10cd67ad-68bf-4131-a112-6a3b03a37351")
 		)
 		(instances
 			(project "X17_Pi_Shield"
