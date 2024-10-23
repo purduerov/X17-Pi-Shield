@@ -14,4 +14,5 @@
   (lib (name "UJC_HP_L_G_5_MSMT_TR")(type "KiCad")(uri "/Users/nickz68/Downloads/UJC_HP_L_G_5_MSMT_TR")(options "")(descr ""))
   (lib (name "ISO1410BDWR")(type "KiCad")(uri "/Users/nickz68/Downloads/ISO1410BDWR/ISO1410BDWR.pretty")(options "")(descr ""))
   (lib (name "ISO3086TDW")(type "KiCad")(uri "/Users/nickz68/Downloads/ISO3086TDW")(options "")(descr ""))
+  (lib (name "TSW-140-08-G-D")(type "KiCad")(uri "/Users/nickz68/Downloads/TSW-140-08-G-D")(options "")(descr ""))
 )
