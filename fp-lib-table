@@ -2,7 +2,6 @@
   (version 7)
   (lib (name "BNO080")(type "KiCad")(uri "/Users/nickz68/Downloads/BNO080")(options "")(descr ""))
   (lib (name "RASPBERRY_PI_4B_4GB")(type "KiCad")(uri "/Users/nickz68/Downloads/RASPBERRY_PI_4B_4GB")(options "")(descr ""))
-  (lib (name "AZ1117IH_3_3TRG1")(type "KiCad")(uri "/Users/nickz68/Downloads/AZ1117IH_3_3TRG1")(options "")(descr ""))
   (lib (name "4754")(type "KiCad")(uri "/Users/nickz68/Downloads/4754")(options "")(descr ""))
   (lib (name "0430450212/")(type "KiCad")(uri "/Users/nickz68/Downloads/0430450212/footprints.pretty")(options "")(descr ""))
   (lib (name "MAX485")(type "KiCad")(uri "/Users/nickz68/Downloads/MAX485")(options "")(descr ""))
@@ -15,4 +14,5 @@
   (lib (name "ISO1410BDWR")(type "KiCad")(uri "/Users/nickz68/Downloads/ISO1410BDWR/ISO1410BDWR.pretty")(options "")(descr ""))
   (lib (name "ISO3086TDW")(type "KiCad")(uri "/Users/nickz68/Downloads/ISO3086TDW")(options "")(descr ""))
   (lib (name "TSW-140-08-G-D")(type "KiCad")(uri "/Users/nickz68/Downloads/TSW-140-08-G-D")(options "")(descr ""))
+  (lib (name "AZ1117IH_3_3TRG1")(type "KiCad")(uri "/Users/nickz68/Downloads/AZ1117IH_3_3TRG1/AZ1117IH_3_3TRG1.pretty")(options "")(descr ""))
 )

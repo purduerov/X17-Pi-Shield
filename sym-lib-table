@@ -2,7 +2,6 @@
   (version 7)
   (lib (name "BNO080")(type "KiCad")(uri "/Users/nickz68/Downloads/BNO080/BNO080.kicad_sym")(options "")(descr ""))
   (lib (name "RASPBERRY_PI_4B_4GB")(type "KiCad")(uri "/Users/nickz68/Downloads/RASPBERRY_PI_4B_4GB/RASPBERRY_PI_4B_4GB.kicad_sym")(options "")(descr ""))
-  (lib (name "AZ1117IH-3.3TRG1")(type "KiCad")(uri "/Users/nickz68/Downloads/AZ1117IH_3_3TRG1/AZ1117IH-3.3TRG1.kicad_sym")(options "")(descr ""))
   (lib (name "BM04B_GHS_TBT")(type "KiCad")(uri "/Users/nickz68/Downloads/BM04B_GHS_TBT/2024-10-08_01-41-07.kicad_sym")(options "")(descr ""))
   (lib (name "DF13_4P_1_25DSA")(type "KiCad")(uri "/Users/nickz68/Downloads/DF13_4P_1_25DSA/2024-10-08_01-41-04.kicad_sym")(options "")(descr ""))
   (lib (name "4754")(type "KiCad")(uri "/Users/nickz68/Downloads/4754/4754.kicad_sym")(options "")(descr ""))
@@ -20,4 +19,5 @@
   (lib (name "LP2985A-50DBVR")(type "KiCad")(uri "/Users/nickz68/Downloads/LP2985A-50DBVR/LP2985A-50DBVR.kicad_sym")(options "")(descr ""))
   (lib (name "ISO3086TDW")(type "KiCad")(uri "/Users/nickz68/Downloads/ISO3086TDW/ISO3086TDW.kicad_sym")(options "")(descr ""))
   (lib (name "TSW-140-08-G-D")(type "KiCad")(uri "/Users/nickz68/Downloads/TSW-140-08-G-D/TSW-140-08-G-D.kicad_sym")(options "")(descr ""))
+  (lib (name "AZ1117IH_3_3TRG1")(type "KiCad")(uri "/Users/nickz68/Downloads/AZ1117IH_3_3TRG1/AZ1117IH_3_3TRG1.kicad_sym")(options "")(descr ""))
 )
