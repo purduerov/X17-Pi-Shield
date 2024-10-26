@@ -4,7 +4,7 @@
   (lib (name "RASPBERRY_PI_4B_4GB")(type "KiCad")(uri "/Users/nickz68/Downloads/RASPBERRY_PI_4B_4GB")(options "")(descr ""))
   (lib (name "4754")(type "KiCad")(uri "/Users/nickz68/Downloads/4754")(options "")(descr ""))
   (lib (name "0430450212/")(type "KiCad")(uri "/Users/nickz68/Downloads/0430450212/footprints.pretty")(options "")(descr ""))
-  (lib (name "MAX485")(type "KiCad")(uri "/Users/nickz68/Downloads/MAX485")(options "")(descr ""))
+  (lib (name "MAX485")(type "KiCad")(uri "${KIPRJMOD}/Libraries/MAX485")(options "")(descr ""))
   (lib (name "INA260AIPW")(type "KiCad")(uri "/Users/nickz68/Downloads/INA260AIPW")(options "")(descr ""))
   (lib (name "leak_footprint")(type "KiCad")(uri "/Users/nickz68/Downloads/leak_probe_connector/footprints.pretty")(options "")(descr ""))
   (lib (name "CON_430450612_MOL")(type "KiCad")(uri "/Users/nickz68/Downloads/CON_430450612_MOL/CON_430450612_MOL.pretty")(options "")(descr ""))
