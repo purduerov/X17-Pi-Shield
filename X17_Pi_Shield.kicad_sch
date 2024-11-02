@@ -19,6 +19,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 105.41) (xy 176.53 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "084df38d-50e4-4769-a50f-d8e43bb0260f")
+	)
+	(wire
+		(pts
 			(xy 123.19 106.68) (xy 125.73 106.68)
 		)
 		(stroke
@@ -69,6 +79,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 99.06) (xy 176.53 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "315eff5f-f776-462a-a0b3-6699d9f309d0")
+	)
+	(wire
+		(pts
 			(xy 120.65 71.12) (xy 120.65 104.14)
 		)
 		(stroke
@@ -89,16 +109,6 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 105.41) (xy 176.53 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b45b7a1-5dc3-477a-b293-928dac8f1e9c")
-	)
-	(wire
-		(pts
 			(xy 156.21 69.85) (xy 195.58 69.85)
 		)
 		(stroke
@@ -109,13 +119,23 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 96.52) (xy 176.53 96.52)
+			(xy 158.75 107.95) (xy 176.53 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6119d9cd-83ea-49a4-a13c-fa3d938cfe6d")
+		(uuid "56310f15-2085-4dec-96ac-3d8652b08f56")
+	)
+	(wire
+		(pts
+			(xy 158.75 123.19) (xy 176.53 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56e0162a-a468-4d14-9221-0f19023c216a")
 	)
 	(wire
 		(pts
@@ -129,33 +149,13 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 114.3) (xy 176.53 114.3)
+			(xy 158.75 120.65) (xy 176.53 120.65)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6f93cb60-13e3-4929-93e0-6683e655785a")
-	)
-	(wire
-		(pts
-			(xy 157.48 107.95) (xy 176.53 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8437e342-c0f5-4a19-bc3d-0655aceaf24f")
-	)
-	(wire
-		(pts
-			(xy 157.48 116.84) (xy 176.53 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a2538e28-74c0-4b9b-b201-736ed2050d1b")
+		(uuid "a2252e8c-69cc-450d-8db9-4ea3f4e2782a")
 	)
 	(wire
 		(pts
@@ -166,6 +166,16 @@
 			(type default)
 		)
 		(uuid "b4ca49b7-9afe-4813-87a8-e031c2cc2c7e")
+	)
+	(wire
+		(pts
+			(xy 158.75 113.03) (xy 176.53 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c06429b7-3ec2-4e9e-ab3c-043a7c68aea6")
 	)
 	(wire
 		(pts
@@ -189,13 +199,23 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 99.06) (xy 176.53 99.06)
+			(xy 158.75 115.57) (xy 176.53 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fa3116e3-99a6-4fd0-9533-9eb7b6043d53")
+		(uuid "f23b7c73-f1d3-49ed-ad81-9604fe73e086")
+	)
+	(wire
+		(pts
+			(xy 158.75 96.52) (xy 176.53 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f37e805e-405b-46f5-b358-35fc089e935b")
 	)
 	(text "UART Communication"
 		(exclude_from_sim no)
@@ -219,7 +239,7 @@
 	)
 	(sheet
 		(at 125.73 92.71)
-		(size 33.02 26.67)
+		(size 33.02 33.02)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -240,7 +260,7 @@
 			)
 		)
 		(property "Sheetfile" "pi_imu.kicad_sch"
-			(at 125.73 119.9646 0)
+			(at 125.73 126.3146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -289,18 +309,8 @@
 			)
 			(uuid "be443091-65e7-477b-95b0-a9344d03700f")
 		)
-		(pin "TX" input
-			(at 158.75 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "7da42795-a935-4739-bb9b-5786c4f004d2")
-		)
 		(pin "RX" input
-			(at 158.75 116.84 0)
+			(at 158.75 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -349,6 +359,36 @@
 			)
 			(uuid "ca334123-53ec-44ef-9450-53389428f88d")
 		)
+		(pin "TX_TB" input
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e04a0563-3773-40d2-a328-37feba55e444")
+		)
+		(pin "RX_TB" input
+			(at 158.75 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a4244d10-1231-4b01-99c4-bbf6245365de")
+		)
+		(pin "TX" input
+			(at 158.75 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3c5ca2ab-ced0-4961-830d-0783e6c98710")
+		)
 		(instances
 			(project "X17_Pi_Shield"
 				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2"
@@ -359,7 +399,7 @@
 	)
 	(sheet
 		(at 176.53 92.71)
-		(size 26.67 26.67)
+		(size 26.67 31.75)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -380,7 +420,7 @@
 			)
 		)
 		(property "Sheetfile" "UART.kicad_sch"
-			(at 176.53 119.9646 0)
+			(at 176.53 125.0446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -400,7 +440,7 @@
 			(uuid "1ea43ade-680b-47c6-97a2-8ee6b1c0dde3")
 		)
 		(pin "RX" input
-			(at 176.53 116.84 180)
+			(at 176.53 123.19 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -420,7 +460,7 @@
 			(uuid "b8a5131c-e7c1-4d33-abe5-8fbf887d5606")
 		)
 		(pin "TX" input
-			(at 176.53 114.3 180)
+			(at 176.53 120.65 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -458,6 +498,26 @@
 				(justify right)
 			)
 			(uuid "413fb551-b3ad-4e14-bc28-7c9e912b0734")
+		)
+		(pin "RX_TB" input
+			(at 176.53 115.57 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "14da8a47-e983-4ee1-9827-b5d811e56570")
+		)
+		(pin "TX_TB" input
+			(at 176.53 113.03 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4e9a6983-a2b7-4e23-bb94-c6421193c63f")
 		)
 		(instances
 			(project "X17_Pi_Shield"

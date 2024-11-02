@@ -2797,7 +2797,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CONN_BM02B-GHS-TBT_JST"
+		(property "Footprint" "leak_footprint:CONN_BM02B-GHS-TBT_JST"
 			(at 66.04 88.9 0)
 			(effects
 				(font
@@ -2935,7 +2935,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 145.796 105.664 90)
 			(effects
 				(font
@@ -3006,7 +3006,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CONN_BM02B-GHS-TBT_JST"
+		(property "Footprint" "leak_footprint:CONN_BM02B-GHS-TBT_JST"
 			(at 66.04 110.49 0)
 			(effects
 				(font
@@ -3364,7 +3364,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 131.826 105.156 90)
 			(effects
 				(font
@@ -3497,7 +3497,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 108.204 89.154 90)
 			(effects
 				(font
@@ -3633,7 +3633,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 115.824 82.296 90)
 			(effects
 				(font
@@ -3842,7 +3842,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CONN_BM02B-GHS-TBT_JST"
+		(property "Footprint" "leak_footprint:CONN_BM02B-GHS-TBT_JST"
 			(at 66.04 99.06 0)
 			(effects
 				(font
@@ -4059,7 +4059,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CONN_BM02B-GHS-TBT_JST"
+		(property "Footprint" "leak_footprint:CONN_BM02B-GHS-TBT_JST"
 			(at 66.04 77.47 0)
 			(effects
 				(font
@@ -4131,7 +4131,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CONN_BM04B-GHS-TBT_JST"
+		(property "Footprint" "Connector_JST:JST_GH_BM04B-GHS-TBT_1x04-1MP_P1.25mm_Vertical"
 			(at 213.36 119.38 0)
 			(effects
 				(font
