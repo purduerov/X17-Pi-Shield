@@ -7205,7 +7205,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AZ1117IH_3_3TRG1:SOT223_AZ1117I_6P5X3P5_DIO-M"
+		(property "Footprint" "MAX485:SO08"
 			(at 222.25 110.49 0)
 			(effects
 				(font
