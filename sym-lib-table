@@ -20,4 +20,8 @@
   (lib (name "ISO3086TDW")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ISO3086TDW/ISO3086TDW.kicad_sym")(options "")(descr ""))
   (lib (name "TSW-140-08-G-D")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TSW-140-08-G-D/TSW-140-08-G-D.kicad_sym")(options "")(descr ""))
   (lib (name "AZ1117IH_3_3TRG1")(type "KiCad")(uri "${KIPRJMOD}/Libraries/AZ1117IH_3_3TRG1/AZ1117IH_3_3TRG1.kicad_sym")(options "")(descr ""))
+  (lib (name "ISOW1432BDFMR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ISOW1432BDFMR/ISOW1432BDFMR.kicad_sym")(options "")(descr ""))
+  (lib (name "MBR0520LT1G")(type "KiCad")(uri "${KIPRJMOD}/Libraries/MBR0520LT1G/MBR0520LT1G.kicad_sym")(options "")(descr ""))
+  (lib (name "BLM18KN331EH1D")(type "KiCad")(uri "${KIPRJMOD}/Libraries/BLM18KN331EH1D/BLM18KN331EH1D.kicad_sym")(options "")(descr ""))
+  (lib (name "MMBT3906LT3G")(type "KiCad")(uri "${KIPRJMOD}/Libraries/MMBT3906LT3G/MMBT3906LT3G.kicad_sym")(options "")(descr ""))
 )
