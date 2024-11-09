@@ -1908,25 +1908,23 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at -20.32 33.528 0)
+			(property "Reference" "U8"
+				(at 0 38.1 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
 				)
 			)
 			(property "Value" "RASPBERRY_PI_4B_4GB"
-				(at -20.32 -33.02 0)
+				(at 0 35.56 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
 				)
 			)
-			(property "Footprint" "RASPBERRY_PI_4B_4GB:MODULE_RASPBERRY_PI_4B_4GB"
+			(property "Footprint" "TSW-120-09-G-D:SAMTEC_TSW-120-09-G-D"
 				(at 0 0 0)
 				(effects
 					(font
@@ -7125,10 +7123,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b7e336d3-39d4-4e8f-a751-f7e394be713d")
 		(property "Reference" "J9"
-			(at 41.275 77.47 0)
+			(at 41.148 76.708 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7136,7 +7133,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 41.275 80.01 0)
+			(at 41.148 79.248 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -3159,7 +3159,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 152.4) (xy 200.66 152.4)
+			(xy 173.99 142.24) (xy 175.26 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3339,7 +3339,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 154.94) (xy 200.66 154.94)
+			(xy 173.99 144.78) (xy 175.26 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4129,7 +4129,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 144.78) (xy 200.66 144.78)
+			(xy 173.99 134.62) (xy 175.26 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4319,7 +4319,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 149.86) (xy 199.39 149.86)
+			(xy 175.26 139.7) (xy 173.99 139.7)
 		)
 		(stroke
 			(width 0)
@@ -4429,7 +4429,7 @@
 	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 215.646 147.574 0)
+		(at 190.246 137.414 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4459,7 +4459,7 @@
 	)
 	(text "NRST_TB\nGND_TB"
 		(exclude_from_sim no)
-		(at 213.614 156.464 0)
+		(at 188.214 146.304 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4490,7 +4490,7 @@
 	)
 	(text "NRST_PS\nNRST_ESC"
 		(exclude_from_sim no)
-		(at 213.614 151.638 0)
+		(at 188.214 141.478 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4501,7 +4501,7 @@
 	)
 	(text "Backplane GPIO and Power Connector"
 		(exclude_from_sim no)
-		(at 204.47 137.16 0)
+		(at 179.07 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4511,7 +4511,7 @@
 	)
 	(text "5V\n\n"
 		(exclude_from_sim no)
-		(at 214.884 146.05 0)
+		(at 189.484 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4557,7 +4557,7 @@
 	)
 	(hierarchical_label "NRST_ESC"
 		(shape input)
-		(at 199.39 152.4 180)
+		(at 173.99 142.24 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4569,7 +4569,7 @@
 	)
 	(hierarchical_label "5V_BACKPLANE"
 		(shape input)
-		(at 199.39 144.78 180)
+		(at 173.99 134.62 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4605,7 +4605,7 @@
 	)
 	(hierarchical_label "NRST_TB"
 		(shape input)
-		(at 199.39 154.94 180)
+		(at 173.99 144.78 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4641,7 +4641,7 @@
 	)
 	(hierarchical_label "NRST_PS"
 		(shape input)
-		(at 199.39 149.86 180)
+		(at 173.99 139.7 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6032,7 +6032,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 200.66 147.32 270)
+		(at 175.26 137.16 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6041,7 +6041,7 @@
 		(fields_autoplaced yes)
 		(uuid "7a4f488d-1e82-409e-8898-62feffe82e42")
 		(property "Reference" "#PWR021"
-			(at 194.31 147.32 0)
+			(at 168.91 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6050,7 +6050,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 196.85 147.3199 90)
+			(at 171.45 137.1599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6059,7 +6059,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 200.66 147.32 0)
+			(at 175.26 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6068,7 +6068,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.66 147.32 0)
+			(at 175.26 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6077,7 +6077,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 200.66 147.32 0)
+			(at 175.26 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7482,7 +7482,7 @@
 	)
 	(symbol
 		(lib_id "CON_430450612_MOL:430450612")
-		(at 200.66 144.78 0)
+		(at 175.26 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7490,7 +7490,7 @@
 		(dnp no)
 		(uuid "df1362ba-6263-4bb8-94a2-5ea20dcf1f47")
 		(property "Reference" "J23"
-			(at 208.026 140.97 0)
+			(at 182.626 130.81 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7499,7 +7499,7 @@
 			)
 		)
 		(property "Value" "430450612"
-			(at 214.63 152.3999 0)
+			(at 189.23 142.2399 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7509,7 +7509,7 @@
 			)
 		)
 		(property "Footprint" "CON_430450612_MOL:CON_430450612_MOL"
-			(at 200.66 144.78 0)
+			(at 175.26 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7519,7 +7519,7 @@
 			)
 		)
 		(property "Datasheet" "430450612"
-			(at 200.66 144.78 0)
+			(at 175.26 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7529,7 +7529,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 200.66 144.78 0)
+			(at 175.26 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7704,7 +7704,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 200.66 157.48 270)
+		(at 175.26 147.32 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7713,7 +7713,7 @@
 		(fields_autoplaced yes)
 		(uuid "f18a38b3-8b75-4c84-a850-95500e4456c1")
 		(property "Reference" "#PWR068"
-			(at 194.31 157.48 0)
+			(at 168.91 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7722,7 +7722,7 @@
 			)
 		)
 		(property "Value" "GND_TB"
-			(at 196.85 157.4799 90)
+			(at 171.45 147.3199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7731,7 +7731,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 200.66 157.48 0)
+			(at 175.26 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7740,7 +7740,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.66 157.48 0)
+			(at 175.26 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7749,7 +7749,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 200.66 157.48 0)
+			(at 175.26 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
