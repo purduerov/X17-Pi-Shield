@@ -6367,7 +6367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RASPBERRY_PI_4B_4GB:MODULE_RASPBERRY_PI_4B_4GB"
+		(property "Footprint" "TSW-120-09-G-D:SAMTEC_TSW-120-09-G-D"
 			(at 149.86 102.87 0)
 			(effects
 				(font
