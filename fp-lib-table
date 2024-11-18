@@ -20,4 +20,5 @@
   (lib (name "BLM18KN331EH1D")(type "KiCad")(uri "${KIPRJMOD}/Libraries/BLM18KN331EH1D/BLM18KN331EH1D.pretty")(options "")(descr ""))
   (lib (name "MMBT3906LT3G")(type "KiCad")(uri "${KIPRJMOD}/Libraries/MMBT3906LT3G/MMBT3906LT3G.pretty")(options "")(descr ""))
   (lib (name "TSW-120-09-G-D")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TSW-120-09-G-D")(options "")(descr ""))
+  (lib (name "BLM15EX331SN1D")(type "KiCad")(uri "${KIPRJMOD}/Libraries/BLM15EX331SN1D/KiCADv6/footprints.pretty")(options "")(descr ""))
 )

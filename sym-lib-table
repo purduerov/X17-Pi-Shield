@@ -25,4 +25,5 @@
   (lib (name "BLM18KN331EH1D")(type "KiCad")(uri "${KIPRJMOD}/Libraries/BLM18KN331EH1D/BLM18KN331EH1D.kicad_sym")(options "")(descr ""))
   (lib (name "MMBT3906LT3G")(type "KiCad")(uri "${KIPRJMOD}/Libraries/MMBT3906LT3G/MMBT3906LT3G.kicad_sym")(options "")(descr ""))
   (lib (name "TSW-120-09-G-D")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TSW-120-09-G-D/TSW-120-09-G-D.kicad_sym")(options "")(descr ""))
+  (lib (name "BLM15EX331SN1D")(type "KiCad")(uri "${KIPRJMOD}/Libraries/BLM15EX331SN1D/KiCADv6/2024-11-17_02-23-52.kicad_sym")(options "")(descr ""))
 )

@@ -400,377 +400,6 @@
 				)
 			)
 		)
-		(symbol "BLM15EX331SN1D:BLM15EX331SN1D"
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "L"
-				(at 6.985 5.08 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "BLM15EX331SN1D"
-				(at 6.985 -2.54 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" "IND_BLM15_MUR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "BLM15EX331SN1D"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "BLM15EX331SN1D"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "IND_BLM15_MUR IND_BLM15_MUR-M IND_BLM15_MUR-L"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "BLM15EX331SN1D_1_1"
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 2.54 1.27)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 5.08 1.27)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 7.62 1.27)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 10.16 1.27)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 0) (xy 12.7 1.27)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 5.08 1.27)
-					(mid 3.81 2.5344)
-					(end 2.54 1.27)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 7.62 1.27)
-					(mid 6.35 2.5344)
-					(end 5.08 1.27)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 10.16 1.27)
-					(mid 8.89 2.5344)
-					(end 7.62 1.27)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 12.7 1.27)
-					(mid 11.43 2.5344)
-					(end 10.16 1.27)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at 15.24 0 180)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 0 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "BLM15EX331SN1D_1_2"
-				(arc
-					(start -1.27 5.08)
-					(mid -2.5344 3.81)
-					(end -1.27 2.54)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -1.27 7.62)
-					(mid -2.5344 6.35)
-					(end -1.27 5.08)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -1.27 10.16)
-					(mid -2.5344 8.89)
-					(end -1.27 7.62)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -1.27 12.7)
-					(mid -2.5344 11.43)
-					(end -1.27 10.16)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy -1.27 2.54)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 5.08) (xy -1.27 5.08)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 7.62) (xy -1.27 7.62)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 10.16) (xy -1.27 10.16)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 12.7) (xy -1.27 12.7)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at 0 15.24 270)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 0 90)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "CON_430450612_MOL:430450612"
 			(pin_names
 				(offset 0.254)
@@ -1598,207 +1227,6 @@
 				)
 			)
 		)
-		(symbol "Connector:Conn_01x03_Pin"
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x03_Pin"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x03, script generated"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x03_Pin_1_1"
-				(polyline
-					(pts
-						(xy 1.27 -2.54) (xy 0.8636 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 0.8636 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 2.54) (xy 0.8636 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 0.8636 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 0.8636 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 0.8636 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Device:C"
 			(pin_numbers hide)
 			(pin_names
@@ -1918,6 +1346,152 @@
 				(pin passive line
 					(at 0 -3.81 90)
 					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Device:FerriteBead"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FB"
+				(at -3.81 0.635 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "FerriteBead"
+				(at 3.81 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Ferrite bead"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "L ferrite bead inductor filter"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Inductor_* L_* *Ferrite*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "FerriteBead_0_1"
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -1.2192)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 0 1.2954)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.7686 0.4064) (xy -1.7018 2.2606) (xy 2.7686 -0.3048) (xy 1.6764 -2.159) (xy -2.7686 0.4064)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "FerriteBead_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.54)
 					(name "~"
 						(effects
 							(font
@@ -3330,12 +2904,6 @@
 		(uuid "2283252c-af33-463e-bd7e-b8557237d71a")
 	)
 	(junction
-		(at 158.75 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "24fbe344-ace6-4921-b73f-4684317ac588")
-	)
-	(junction
 		(at 123.19 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3390,6 +2958,12 @@
 		(uuid "50755ac2-1175-4720-8fbe-cd92d48e1979")
 	)
 	(junction
+		(at 156.21 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5150ceed-689e-4193-96e8-29370bf105a9")
+	)
+	(junction
 		(at 116.84 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3418,12 +2992,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6b7e80d9-016b-4026-9e0c-9ee72f9da4d5")
-	)
-	(junction
-		(at 254 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "740e3d52-1499-4fa1-90c3-d2a06e0947d3")
 	)
 	(junction
 		(at 71.12 116.84)
@@ -3480,12 +3048,6 @@
 		(uuid "b785fe3e-fa89-4824-a3a2-5f639abf016a")
 	)
 	(junction
-		(at 254 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b948eb06-0ad4-4b9b-a418-4f237e476d0d")
-	)
-	(junction
 		(at 130.81 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3537,7 +3099,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 59.69) (xy 45.72 63.5)
+			(xy 54.61 59.69) (xy 54.61 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3607,16 +3169,6 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 139.7) (xy 265.43 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "103afdb5-c026-44ee-96bf-4a19bbf9a2f6")
-	)
-	(wire
-		(pts
 			(xy 201.93 107.95) (xy 201.93 109.22)
 		)
 		(stroke
@@ -3667,7 +3219,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 116.84) (xy 46.99 116.84)
+			(xy 49.53 116.84) (xy 54.61 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3734,6 +3286,16 @@
 			(type default)
 		)
 		(uuid "1c4c34b7-9624-46ba-b64b-28ea20c99793")
+	)
+	(wire
+		(pts
+			(xy 156.21 66.04) (xy 156.21 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d5c036b-2d6c-4b54-9028-f508dfc49e99")
 	)
 	(wire
 		(pts
@@ -3837,16 +3399,6 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 66.04) (xy 158.75 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "33f24303-407c-4bbe-80ea-9e6ca63fd366")
-	)
-	(wire
-		(pts
 			(xy 77.47 116.84) (xy 77.47 118.11)
 		)
 		(stroke
@@ -3864,16 +3416,6 @@
 			(type default)
 		)
 		(uuid "364b1bbf-0de1-459d-b6c7-7800ce8a6490")
-	)
-	(wire
-		(pts
-			(xy 254 110.49) (xy 254 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "36914c2b-c2a5-4cde-be67-088bba453715")
 	)
 	(wire
 		(pts
@@ -3957,16 +3499,6 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 134.62) (xy 264.16 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47b4f3f2-8e1a-4c15-be2b-932080787dd9")
-	)
-	(wire
-		(pts
 			(xy 121.92 99.06) (xy 124.46 99.06)
 		)
 		(stroke
@@ -3997,7 +3529,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 115.57) (xy 41.91 116.84)
+			(xy 49.53 115.57) (xy 49.53 116.84)
 		)
 		(stroke
 			(width 0)
@@ -4017,7 +3549,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 66.04) (xy 158.75 66.04)
+			(xy 129.54 66.04) (xy 156.21 66.04)
 		)
 		(stroke
 			(width 0)
@@ -4087,16 +3619,6 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 137.16) (xy 264.16 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5fa77dd3-8e81-43ee-bfc3-ff0f142c01c1")
-	)
-	(wire
-		(pts
 			(xy 123.19 73.66) (xy 129.54 73.66)
 		)
 		(stroke
@@ -4137,7 +3659,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 64.77) (xy 158.75 66.04)
+			(xy 156.21 64.77) (xy 156.21 66.04)
 		)
 		(stroke
 			(width 0)
@@ -4267,16 +3789,6 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 139.7) (xy 265.43 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "887e0112-eb90-4d0a-bc78-c3b00111a4c9")
-	)
-	(wire
-		(pts
 			(xy 231.14 92.71) (xy 231.14 96.52)
 		)
 		(stroke
@@ -4297,7 +3809,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 107.95) (xy 254 107.95)
+			(xy 251.46 107.95) (xy 256.54 107.95)
 		)
 		(stroke
 			(width 0)
@@ -4397,7 +3909,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 63.5) (xy 52.07 63.5)
+			(xy 54.61 63.5) (xy 59.69 63.5)
 		)
 		(stroke
 			(width 0)
@@ -4414,16 +3926,6 @@
 			(type default)
 		)
 		(uuid "9f2925f6-2a83-4bfa-bef0-ac327dc6015f")
-	)
-	(wire
-		(pts
-			(xy 254 107.95) (xy 256.54 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9fba80e1-6b9d-49a5-b284-eae528674e03")
 	)
 	(wire
 		(pts
@@ -4627,16 +4129,6 @@
 	)
 	(wire
 		(pts
-			(xy 254 105.41) (xy 254 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc71aea4-792a-4db1-88bb-da22d8f570f2")
-	)
-	(wire
-		(pts
 			(xy 173.99 134.62) (xy 175.26 134.62)
 		)
 		(stroke
@@ -4697,7 +4189,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 110.49) (xy 254 110.49)
+			(xy 245.11 110.49) (xy 256.54 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4734,6 +4226,16 @@
 			(type default)
 		)
 		(uuid "e5932630-01d2-4ee4-86f5-4c222c0a7006")
+	)
+	(wire
+		(pts
+			(xy 151.13 113.03) (xy 156.21 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5babc6b-4412-45a8-8359-18308d6b90c9")
 	)
 	(wire
 		(pts
@@ -4877,16 +4379,6 @@
 	)
 	(wire
 		(pts
-			(xy 254 110.49) (xy 256.54 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa8f9676-f648-40e9-9469-57cb411021e3")
-	)
-	(wire
-		(pts
 			(xy 64.77 116.84) (xy 71.12 116.84)
 		)
 		(stroke
@@ -4965,16 +4457,6 @@
 		)
 		(uuid "5cad1343-6492-4661-86f5-2087ad86e3d8")
 	)
-	(text "RS485 Connector"
-		(exclude_from_sim no)
-		(at 263.906 123.952 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "5cf5b564-53c1-40bd-8f5f-6375ca802bef")
-	)
 	(text "NRST_TB\nGND_TB"
 		(exclude_from_sim no)
 		(at 188.214 146.304 0)
@@ -5036,50 +4518,6 @@
 			)
 		)
 		(uuid "f2f16015-b2e4-452f-ae53-72493a5890ff")
-	)
-	(label "A"
-		(at 264.16 134.62 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "28950bcc-7709-48c7-b164-412ac14a2955")
-	)
-	(label "A"
-		(at 254 114.3 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7e6fd96f-bbec-4cb6-bfb3-49399941e736")
-	)
-	(label "B"
-		(at 264.16 137.16 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "85159ee2-ef2a-4dab-b2f6-9c1606d8e3d9")
-	)
-	(label "B"
-		(at 254 105.41 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f45e7e38-d570-423d-be32-a66b8beafcfe")
 	)
 	(hierarchical_label "TB_EN"
 		(shape input)
@@ -5214,78 +4652,6 @@
 		(uuid "e8afce03-0c9a-4b8a-922c-5d56e45ec3a9")
 	)
 	(symbol
-		(lib_id "BLM15EX331SN1D:BLM15EX331SN1D")
-		(at 130.81 139.7 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "03e8e99d-879a-4beb-88aa-2247ff780a32")
-		(property "Reference" "L3"
-			(at 132.08 130.8099 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "BLM15EX331SN1D"
-			(at 132.08 133.3499 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "BLM15EX331SN1D:IND_BLM15_MUR-M"
-			(at 130.81 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "BLM15EX331SN1D"
-			(at 130.81 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 130.81 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b126cc82-ee06-4629-93ad-e73c8c3311ab")
-		)
-		(pin "1"
-			(uuid "fa205648-e704-4d83-9bda-2f148bc59d84")
-		)
-		(instances
-			(project "X17_Pi_Shield"
-				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
-					(reference "L3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 105.41 143.51 0)
 		(unit 1)
@@ -5346,6 +4712,140 @@
 			(project ""
 				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
 					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead")
+		(at 147.32 113.03 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0f3d53c3-f1a6-4a9b-ad49-f8efddb88f48")
+		(property "Reference" "FB2"
+			(at 147.828 107.188 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FerriteBead"
+			(at 147.828 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "BLM18KN331EH1D:BLM18_MUR-M"
+			(at 147.32 114.808 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 147.32 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead"
+			(at 147.32 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fcc9d61d-5a04-4fd0-b3e5-d89555beec8e")
+		)
+		(pin "1"
+			(uuid "6b7b0b9c-d350-4798-97ff-f3d64a4738dc")
+		)
+		(instances
+			(project "X17_Pi_Shield"
+				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
+					(reference "FB2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead")
+		(at 63.5 63.5 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "121f2d40-dc30-45a0-b006-8c905e1293c5")
+		(property "Reference" "FB1"
+			(at 64.008 57.658 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FerriteBead"
+			(at 64.008 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "BLM18KN331EH1D:BLM18_MUR-M"
+			(at 63.5 65.278 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 63.5 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead"
+			(at 63.5 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cf3ad64c-3cf5-4050-a2c8-2a667296fa28")
+		)
+		(pin "1"
+			(uuid "19414c10-533c-4b15-842a-275cc98f07cd")
+		)
+		(instances
+			(project ""
+				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
+					(reference "FB1")
 					(unit 1)
 				)
 			)
@@ -5422,7 +4922,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 41.91 115.57 0)
+		(at 49.53 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5431,7 +4931,7 @@
 		(fields_autoplaced yes)
 		(uuid "27245546-6d13-4b2c-aa35-4d3a72e4c9f4")
 		(property "Reference" "#PWR03"
-			(at 41.91 119.38 0)
+			(at 49.53 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5440,7 +4940,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 41.91 110.49 0)
+			(at 49.53 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5448,7 +4948,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 115.57 0)
+			(at 49.53 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5457,7 +4957,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 115.57 0)
+			(at 49.53 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5466,7 +4966,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 41.91 115.57 0)
+			(at 49.53 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5481,76 +4981,6 @@
 			(project ""
 				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
 					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "BLM15EX331SN1D:BLM15EX331SN1D")
-		(at 46.99 116.84 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2941e49b-0494-4b95-803c-c246ac7b428b")
-		(property "Reference" "L1"
-			(at 54.61 109.22 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "BLM15EX331SN1D"
-			(at 54.61 111.76 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "BLM15EX331SN1D:IND_BLM15_MUR-M"
-			(at 46.99 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "BLM15EX331SN1D"
-			(at 46.99 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 46.99 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cba98861-7c27-49d3-8168-ce8529c57324")
-		)
-		(pin "1"
-			(uuid "610325eb-9591-46a8-9907-901696525ed5")
-		)
-		(instances
-			(project "X17_Pi_Shield"
-				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
-					(reference "L1")
 					(unit 1)
 				)
 			)
@@ -5714,76 +5144,6 @@
 			(project ""
 				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
 					(reference "U7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x03_Pin")
-		(at 257.81 137.16 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "32eff75c-39b0-4d61-b238-94c77e995f50")
-		(property "Reference" "J9"
-			(at 262.636 128.778 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x03_Pin"
-			(at 262.636 131.318 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 257.81 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 257.81 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 257.81 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "09ad235e-d6f4-418b-a9e7-413dfd9d62ef")
-		)
-		(pin "2"
-			(uuid "97cf25e6-e10d-4bb8-89f8-89fb6cac8c09")
-		)
-		(pin "1"
-			(uuid "f31c89f9-2950-422d-9319-ba59f76c6bc0")
-		)
-		(instances
-			(project "X17_Pi_Shield"
-				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
-					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -5995,53 +5355,50 @@
 		)
 	)
 	(symbol
-		(lib_id "BLM15EX331SN1D:BLM15EX331SN1D")
-		(at 52.07 63.5 0)
+		(lib_id "Device:FerriteBead")
+		(at 130.81 128.27 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "55c0c05b-bd1e-4b81-b950-74da8732cbeb")
-		(property "Reference" "L6"
-			(at 59.69 55.88 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "BLM15EX331SN1D"
-			(at 59.69 58.42 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "BLM15EX331SN1D:IND_BLM15_MUR-M"
-			(at 52.07 63.5 0)
+		(uuid "4e810d26-2b39-4c10-9dc7-0a67c402bab3")
+		(property "Reference" "FB3"
+			(at 125.984 128.016 0)
 			(effects
 				(font
 					(size 1.27 1.27)
-					(italic yes)
+				)
+			)
+		)
+		(property "Value" "FerriteBead"
+			(at 124.714 131.318 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "BLM18KN331EH1D:BLM18_MUR-M"
+			(at 132.588 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BLM15EX331SN1D"
-			(at 52.07 63.5 0)
+		(property "Datasheet" "~"
+			(at 130.81 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
-					(italic yes)
 				)
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 52.07 63.5 0)
+		(property "Description" "Ferrite bead"
+			(at 130.81 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6050,15 +5407,82 @@
 			)
 		)
 		(pin "2"
-			(uuid "f71cd2c7-ca45-4dd4-a5ad-af5c55ec4934")
+			(uuid "70f796d3-2617-443f-96e2-4f0463a9ed9f")
 		)
 		(pin "1"
-			(uuid "5a87ca09-ad7c-45f4-8654-5df92a2ea410")
+			(uuid "4b767f33-1ab1-4874-9ae9-7b82ac0c9b44")
 		)
 		(instances
-			(project ""
+			(project "X17_Pi_Shield"
 				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
-					(reference "L6")
+					(reference "FB3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead")
+		(at 58.42 116.84 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "58c42e2e-b1bc-48de-bab8-aeec0a5bf72f")
+		(property "Reference" "FB4"
+			(at 58.928 110.998 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FerriteBead"
+			(at 58.928 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "BLM18KN331EH1D:BLM18_MUR-M"
+			(at 58.42 118.618 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead"
+			(at 58.42 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "48818fec-f6c1-431b-ab2d-70d27a8b1055")
+		)
+		(pin "1"
+			(uuid "a33a8755-d535-44bb-8591-fb24193185f4")
+		)
+		(instances
+			(project "X17_Pi_Shield"
+				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
+					(reference "FB4")
 					(unit 1)
 				)
 			)
@@ -6543,72 +5967,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 265.43 140.97 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "748801d8-c097-417f-9a85-2364e9021ff4")
-		(property "Reference" "#PWR035"
-			(at 265.43 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 265.43 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 265.43 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 265.43 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 265.43 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0b7335b7-ce74-47b5-a5ed-a0c5a1e9c9cd")
-		)
-		(instances
-			(project "X17_Pi_Shield"
-				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
-					(reference "#PWR035")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 231.14 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6740,78 +6098,6 @@
 		)
 	)
 	(symbol
-		(lib_id "BLM15EX331SN1D:BLM15EX331SN1D")
-		(at 64.77 144.78 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7be05084-6d80-4b88-b827-9c3a93ae72e6")
-		(property "Reference" "L2"
-			(at 66.04 135.8899 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "BLM15EX331SN1D"
-			(at 66.04 138.4299 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "BLM15EX331SN1D:IND_BLM15_MUR-M"
-			(at 64.77 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "BLM15EX331SN1D"
-			(at 64.77 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 64.77 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a633039d-de70-4390-baa6-5e697057ec11")
-		)
-		(pin "1"
-			(uuid "fa8d81fc-097d-4215-93b2-5641f1cca1ef")
-		)
-		(instances
-			(project "X17_Pi_Shield"
-				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
-					(reference "L2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 134.62 106.68 0)
 		(unit 1)
@@ -6871,6 +6157,73 @@
 			(project "X17_Pi_Shield"
 				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
 					(reference "#PWR070")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead")
+		(at 64.77 133.35 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "85683cad-bb84-47e6-979a-46c1f6e9a457")
+		(property "Reference" "FB5"
+			(at 59.944 133.096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FerriteBead"
+			(at 58.674 136.398 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "BLM18KN331EH1D:BLM18_MUR-M"
+			(at 66.548 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 64.77 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead"
+			(at 64.77 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4d347733-9849-4012-bbeb-c28eec4d731e")
+		)
+		(pin "1"
+			(uuid "6e10b1a2-ee47-4516-817f-dba6620bb836")
+		)
+		(instances
+			(project "X17_Pi_Shield"
+				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
+					(reference "FB5")
 					(unit 1)
 				)
 			)
@@ -7012,7 +6365,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 158.75 64.77 0)
+		(at 156.21 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7020,7 +6373,7 @@
 		(dnp no)
 		(uuid "a0414a7a-a5a7-4d3d-b402-5e3e3c655456")
 		(property "Reference" "#PWR053"
-			(at 158.75 68.58 0)
+			(at 156.21 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7028,8 +6381,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3_TB"
-			(at 158.75 61.214 0)
+		(property "Value" "+5V_TB"
+			(at 156.21 61.214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7037,7 +6390,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 158.75 64.77 0)
+			(at 156.21 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7046,7 +6399,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 64.77 0)
+			(at 156.21 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7055,7 +6408,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 158.75 64.77 0)
+			(at 156.21 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7145,17 +6498,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 45.72 59.69 0)
+		(lib_id "power:GND")
+		(at 130.81 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a77b5a69-eebe-4688-8517-17aa5c28ea97")
-		(property "Reference" "#PWR054"
-			(at 45.72 63.5 0)
+		(uuid "a5e28c77-2ddf-49c6-bb33-c3dcd4c3f496")
+		(property "Reference" "#PWR025"
+			(at 130.81 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7163,8 +6516,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
-			(at 45.72 54.61 0)
+		(property "Value" "GND_TB"
+			(at 130.81 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7172,7 +6525,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 45.72 59.69 0)
+			(at 130.81 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7181,7 +6534,73 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 45.72 59.69 0)
+			(at 130.81 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 130.81 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "35761f27-11b3-462c-b184-8ff6d03e15d9")
+		)
+		(instances
+			(project ""
+				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 54.61 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a77b5a69-eebe-4688-8517-17aa5c28ea97")
+		(property "Reference" "#PWR054"
+			(at 54.61 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 54.61 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 54.61 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7190,7 +6609,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 45.72 59.69 0)
+			(at 54.61 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7928,73 +7347,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 130.81 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d8c266ea-ed76-45d8-afca-836f1354f548")
-		(property "Reference" "#PWR025"
-			(at 130.81 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND_TB"
-			(at 130.81 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 130.81 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ebb49070-669b-44d1-9e37-db6527b45208")
-		)
-		(instances
-			(project "X17_Pi_Shield"
-				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
-					(reference "#PWR025")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 64.77 144.78 0)
+		(at 64.77 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8003,7 +7356,7 @@
 		(fields_autoplaced yes)
 		(uuid "da96df21-a0d6-440b-960a-0fe6bc0abe8e")
 		(property "Reference" "#PWR024"
-			(at 64.77 151.13 0)
+			(at 64.77 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8012,7 +7365,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 64.77 149.86 0)
+			(at 64.77 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8020,7 +7373,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 64.77 144.78 0)
+			(at 64.77 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8029,7 +7382,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 144.78 0)
+			(at 64.77 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8038,7 +7391,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 64.77 144.78 0)
+			(at 64.77 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8344,76 +7697,6 @@
 			(project "X17_Pi_Shield"
 				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
 					(reference "C14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "BLM15EX331SN1D:BLM15EX331SN1D")
-		(at 143.51 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f1216c54-5b75-4e59-aedf-f39291cccce2")
-		(property "Reference" "L4"
-			(at 151.13 105.41 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "BLM15EX331SN1D"
-			(at 151.13 107.95 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "BLM15EX331SN1D:IND_BLM15_MUR-M"
-			(at 143.51 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "BLM15EX331SN1D"
-			(at 143.51 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 143.51 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "1290b42d-5002-41e9-98a5-027e60c11c89")
-		)
-		(pin "1"
-			(uuid "1534bf64-9972-4270-839e-1f2e226389c8")
-		)
-		(instances
-			(project "X17_Pi_Shield"
-				(path "/9eec1df9-cfd8-4f98-afed-20048a6985e2/7463edb5-e9bc-436d-95e5-c231049e85db"
-					(reference "L4")
 					(unit 1)
 				)
 			)
