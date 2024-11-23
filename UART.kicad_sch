@@ -6719,7 +6719,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+5V_TB"
+		(property "Value" "+3V3_TB"
 			(at 138.43 81.534 0)
 			(effects
 				(font

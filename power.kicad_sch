@@ -4675,7 +4675,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AZ1117IH-3.3TRG1:SOT230P700X185-4N"
+		(property "Footprint" "AZ1117IH_3_3TRG1 (3):SOT230P700X185-4N"
 			(at 240.03 41.91 0)
 			(effects
 				(font

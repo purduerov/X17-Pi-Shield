@@ -181,6 +181,7 @@
         0.0,
         0.254,
         0.3048,
+        0.381,
         0.508
       ],
       "tuning_pattern_settings": {
@@ -656,6 +657,12 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SNAPEDA_PACKAGE_ID",
+          "name": "SNAPEDA_PACKAGE_ID",
           "show": false
         }
       ],
