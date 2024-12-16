@@ -8995,7 +8995,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ee10f736-6bbb-4b35-91a5-1d0f6ab55b81")
 		(property "Reference" "#PWR019"
 			(at 132.08 176.53 0)
