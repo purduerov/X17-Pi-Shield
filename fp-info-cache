@@ -1,4 +1,4 @@
-24251745644392089
+24270825067882865
 4754
 MODULE_4754
 
@@ -54879,6 +54879,83 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+Custom Guitar Graphic
+diff_2_guitar
+
+
+0
+0
+0
+Custom Guitar Graphic
+diff_2_guitar_1
+
+
+0
+0
+0
+Custom Guitar Graphic
+diff_guitar
+
+
+0
+0
+0
+Custom Guitar Graphic
+diff_guitar_2
+
+
+0
+0
+0
+Custom Guitar Graphic
+guitar_1
+
+
+0
+0
+0
+Custom Guitar Graphic
+guitar_2_edited
+
+
+0
+0
+0
+Custom Guitar Graphic
+guitar_3
+
+
+0
+0
+0
+Custom Guitar Graphic
+guitar_4
+
+
+0
+0
+0
+Custom Guitar Graphic
+john
+
+
+0
+0
+0
+Custom Guitar Graphic
+lebron
+
+
+0
+0
+0
+Custom Guitar Graphic
+steph
+
+
+0
+0
+0
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator

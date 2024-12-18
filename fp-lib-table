@@ -22,4 +22,5 @@
   (lib (name "TSW-120-09-G-D")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TSW-120-09-G-D")(options "")(descr ""))
   (lib (name "BLM15EX331SN1D")(type "KiCad")(uri "${KIPRJMOD}/Libraries/BLM15EX331SN1D/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "AZ1117IH_3_3TRG1 (3)")(type "KiCad")(uri "${KIPRJMOD}/Libraries/AZ1117IH_3_3TRG1 (3)")(options "")(descr ""))
+  (lib (name "Custom Guitar Graphic")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Custom Guitar Graphic")(options "")(descr ""))
 )
