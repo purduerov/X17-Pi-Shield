@@ -29380,7 +29380,7 @@
 		(uuid "fd0218dc-144e-4271-9033-b013d840527a")
 	)
 	(gr_text "X17 Pi Shield\nNicholas Zhang\nVijay, Daniel\nLeo, Keona"
-		(at 179.3 128.6 0)
+		(at 179.3 128.5 0)
 		(layer "B.SilkS")
 		(uuid "aec3aac7-1e23-46a4-bbc3-08054d218185")
 		(effects
@@ -29674,8 +29674,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "John Mayer\n"
-		(at 166.5 119.8 0)
+	(gr_text "-JM"
+		(at 176.7 130.3 0)
 		(layer "F.SilkS")
 		(uuid "7d9a5dac-9b4b-451a-99ac-8fa0bd93f516")
 		(effects
