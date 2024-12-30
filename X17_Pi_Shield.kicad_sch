@@ -399,7 +399,7 @@
 			)
 			(uuid "a4244d10-1231-4b01-99c4-bbf6245365de")
 		)
-		(pin "TX" input
+		(pin "TX" output
 			(at 158.75 116.84 0)
 			(effects
 				(font
@@ -479,7 +479,7 @@
 			)
 			(uuid "1ea43ade-680b-47c6-97a2-8ee6b1c0dde3")
 		)
-		(pin "RX" input
+		(pin "RX" output
 			(at 176.53 119.38 180)
 			(effects
 				(font
