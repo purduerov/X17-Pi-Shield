@@ -1,5 +1,5 @@
 # X17-Pi-Shield
-Custom PCB for Purdue IEEE ROV X17. Board powers the and connects sensors to the Pi
+This board powers the Raspberry Pi and connects sensors to the Pi
 
 Whenever you make a new part, download the datasheet and save it here _**and**_ with the part in the parts library
 
