@@ -1,5 +1,5 @@
 # X17-Pi-Shield
-This board powers the Raspberry Pi and connects sensors to the Pi
+This board powers and connects sensors to the Pi
 
 Whenever you make a new part, download the datasheet and save it here _**and**_ with the part in the parts library
 
